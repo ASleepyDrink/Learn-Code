@@ -1,4 +1,4 @@
-out/*
+out/
+.idea
 Java/out/*
 Java/.idea/*
-.idea/*
